@@ -6,7 +6,7 @@ This README is 80% complete. The guide will be written soon.
 <h2>Content</h2>
 1. Description</br>
 2. Features</br>
- 2.1 Mandatory</br>
+2.1 Mandatory</br>
  2.2 Bonus</br>
 3. Guide</br>
  3.1 Files</br>
