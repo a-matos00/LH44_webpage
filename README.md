@@ -4,15 +4,15 @@
 This README is 80% complete. The guide will be written soon.
 
 <h2>Content</h2>
-1. Description
-2- Features
- 2.1 Mandatory
- 2.2 Bonus
-3. Guide
- 3.1 Files
- 3.2 HTML
- 3.3 CSS
- 3.4 Javascript
+1. Description</br>
+2. Features</br>
+ 2.1 Mandatory</br>
+ 2.2 Bonus</br>
+3. Guide</br>
+ 3.1 Files</br>
+ 3.2 HTML</br>
+ 3.3 CSS</br>
+ 3.4 Javascript</br>
 4. Important note
 
 <h2>Description: </h2>
