@@ -1,4 +1,3 @@
-
 <h1>Lewis Hamilton tribute page</h1>
 <h2>Description: </h2>
 This is a project that I did while learning responsive web design on freeCodeCamp.org. This is the first project that
@@ -12,3 +11,5 @@ needs to be completed in order to get the certification. The task is to build a 
 another page.
 
 <h3>Bonus features that I added</h3>
+-I added a button for dark mode. It's position is set to sticky so it sticks in one place and is always avaliable to
+the user while he scrolls on the page.
